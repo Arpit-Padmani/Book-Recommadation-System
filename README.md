@@ -141,7 +141,7 @@ pip install -r requirements.txt
 ## 📫 Contact
 
 Developed by [Arpit Padmani](https://github.com/Arpit-Padmani)
-💼 [LinkedIn](https://www.linkedin.com/in/arpit-padmani)
+💼 [LinkedIn](https://www.linkedin.com/in/arpitpadmani)
 
 ⭐ **Star this repo** if you found it useful!
 =
