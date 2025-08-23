@@ -6,7 +6,7 @@ It allows users to discover trending books and also find books similar to the on
 ## 📊 Dataset  
 
 This project uses the **Books Dataset from Kaggle**:  
-📌 [Kaggle Dataset - Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)  
+📌 [Kaggle Dataset - Book Recommendation Dataset](https://www.kaggle.com/datasets/arpitpadmani/ml-book-recommendation-system)  
 
 It includes:  
 - **Users** (user IDs, demographics)  
